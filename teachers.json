@@ -1,16 +1,20 @@
 [
   {
-    "Id": "0",
-    "Name": "Enes",
-    "Surname": "Bayraktar",
-    "Birthday": "1969-12-12",
-    "Profession": "Programmer"
+    "id": "0",
+    "name": "Ömer Olçay",
+    "surname": "Karataş",
+    "birthday": "1969-12-12",
+    "profession": "Kıdemli Yazılımcı",
+    "photoUrl": "https://media.licdn.com/dms/image/C5603AQH0o6LUuwzekw/profile-displayphoto-shrink_800_800/0/1516438430398?e=1691625600&v=beta&t=ODWuBHH3uN3AZeOSnUeG449OXpdvLSH1qgFanL-U6hc",
+    "biography": "tes adasdasdknsadja sajd basj bdt",
   },  
   {
-    "Id": "1",
-    "Name": "Enes 2",
-    "Surname": "Bayraktar",
-    "Birthday": "1969-12-12",
-    "Profession": "Programmer"
+    "id": "1",
+    "name": "Enes",
+    "surname": "Bayraktar",
+    "birthday": "2000-25-09",
+    "profession": "Yazılımcı",
+    "photoUrl": "https://media.licdn.com/dms/image/D4D03AQH1LLa9lj3Hpg/profile-displayphoto-shrink_800_800/0/1683360047730?e=1691625600&v=beta&t=WdDvZ7Emu4idxAMjfbJWR62PTcou60fngE5oDZ3vd1k",
+    "biography": "tes adasdasdknsadja sajd basj bdt",
   }
 ]
