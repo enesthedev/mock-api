@@ -4,15 +4,13 @@
     "name": "Enes",
     "surname": "Bayraktar",
     "birthday": "1969-12-12",
-    "profession": "Programmer",
-    "biograph": "Tetst test test",
+    "profession": "Programmer"
   },  
-    {
+  {
     "id": "2",
     "name": "Enes 2",
     "surname": "Bayraktar",
     "birthday": "1969-12-12",
-    "profession": "Programmer",
-    "biograph": "Tetst test test",
+    "profession": "Programmer"
   },  
 ]
